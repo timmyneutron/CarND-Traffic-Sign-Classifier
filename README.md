@@ -8,7 +8,7 @@ This is a project for Udacity's Self-Driving Car Nanodegree. It's a convolutiona
 Concepts explored in this project:
 
   - Machine learning regression and classification
-  - Neural networks, including deep neural networks and convolution neural networks
+  - Neural networks, including deep neural networks and convolutional neural networks like [LeNet-5](http://yann.lecun.com/exdb/lenet/)
   - Data pre-processing, including normalization, color channels, and image manipulation using OpenCV and Matplotlib
   - Constructing and training neural networks using TensorFlow
   - Logisitic classifiers, stochastic gradient descent, and back-propagation
